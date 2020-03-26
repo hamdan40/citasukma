@@ -1,0 +1,38 @@
+{
+  "name": "MATHLAUL ANWAR CITASUK",
+  "short_name": "MA CITASUK",
+  "start_url": "https://www.citasuk.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "OFFICIAL MATHLAUL ANWAR CITASUK",
+  "icons": [{
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-zRJ-ZMAQRMo/XnsMVFddVsI/AAAAAAAAAEU/QiHFqMnRD38eQR9xHuUG7tvz1Dax2oaQQCLcBGAsYHQ/s1600/s48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-yhubxJAqBDQ/XnsMVkFN-tI/AAAAAAAAAEc/afvckdlxwpcm-SKzg_fFcVkiDPuGqfADwCLcBGAsYHQ/s1600/s72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-m3dr3Tyfufw/XnsMVyqPf0I/AAAAAAAAAEg/AVpMla-qQ9MjIpKW1coFJigs0a74jhLuQCLcBGAsYHQ/s1600/s96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-GN7AhJg7xQA/XnsMUT_9uYI/AAAAAAAAAEI/LJEg-Dsu96QglJ2IYfYlqXm65u88MJ_hwCLcBGAsYHQ/s1600/s144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-CzmARvVIQNM/XnsMUSfQyTI/AAAAAAAAAEQ/rod4yJLxP9EDvWWbK8X_FS1-IJgKbAaDgCLcBGAsYHQ/s1600/s168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-gZ8-nHwFES8/XnsMUdv91lI/AAAAAAAAAEM/0mnkV6cb8pw8H5zzJLU61X6zPvFgzLT9gCLcBGAsYHQ/s1600/s192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-qTjmy_QpaF8/XnsMVjBJczI/AAAAAAAAAEY/dUl3yROMXcYeiqoc_deoP7ECBqVWyWqiACLcBGAsYHQ/s320/s512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
